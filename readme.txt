@@ -4,7 +4,7 @@ Tags: contact form 7, mailchimp, newsletter, lead capture, gdpr
 Requires at least: 6.0
 Tested up to: 6.9
 Requires PHP: 7.4
-Stable tag: 1.3.2
+Stable tag: 1.3.3
 License: GPLv2 or later
 
 Sync Contact Form 7 submissions straight into Mailchimp audiences — per-form mapping, tags, groups, double opt-in, GDPR consent and a polished Plugora admin UI.
@@ -36,7 +36,7 @@ Connect Contact Form 7 to Mailchimp in two clicks. Validate your API key, pick a
 5. Edit any CF7 form and use the new **MailChimp** tab to pick an audience.
 
 == Changelog ==
-= 1.3.2=
+= 1.3.3=
 * This entry is rewritten by the build pipeline.
 
 = 1.0.0 =

@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.3.2
+## 1.3.3
 - _This entry is a placeholder; the build pipeline (`stampVersion.ts`) rewrites it with the live DB version on every download/push._
 
 ## 1.0.0 — 2026-05-08
